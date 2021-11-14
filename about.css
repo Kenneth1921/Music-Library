@@ -6,6 +6,18 @@ Body {
 	font-family: Verdana;
 }
 
+#header {
+	padding-left: 5px;
+}
+
+#Main {
+	padding-top: 70px;
+	text-align: center;
+	font-size: 15px;
+	margin-left: 170px;
+	margin-right: 170px;
+}
+
 #navigation ul li {
 	list-style-type: none;
 	display: inline-block;
@@ -21,19 +33,7 @@ Body {
 	color: Red;
 }
 
-#header {
-	padding-left: 5px;
-}
-
-#Main {
-	padding-top: 140px;
-	text-align: center;
-	font-size: 15px;
-	margin-left: 170px;
-	margin-right: 170px;
-}
-
 #footer {
-	padding-top: 280px;
+	padding-top: 260px;
 	padding-left: 5px;
 }
